@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.user{
+  background-color: aquamarine;
+  border:5px solid blueviolet;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 15px;
+
+}
